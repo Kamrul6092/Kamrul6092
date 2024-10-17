@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD KAMRUL ISLAM</h1>
 <h3 align="center">𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗤𝗔 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 || 𝕋𝕖𝕤𝕥 𝔸𝕦𝕥𝕠𝕞𝕒𝕥𝕚𝕠𝕟 𝔼𝕟𝕘𝕚𝕟𝕖𝕖𝕣</h3>
-(https://media.licdn.com/dms/image/v2/C5603AQFHF9JWCvR5Hw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1645680409011?e=1734566400&v=beta&t=KyA6PqeAdBL5TKsfU28Vf7rK3Gb5RQI_E00xVs_bn4A)
 
 - 🔭 I’m currently working on **TRUCK LAGBE**
 

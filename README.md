@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **TRUCK LAGBE**
 
-- 🌱 I’m currently learning **Playwright**
-
 - 👯 I’m looking to collaborate on **GIT**
 
 - 🤝 I’m looking for help with **Other**

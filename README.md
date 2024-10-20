@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MD KAMRUL ISLAM</h1>
 <h3 align="center">𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗤𝗔 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 || Manual || Automation </h3>
 
-- 🔭 I’m currently working on **TRUCK LAGBE**
+- 🔭 I’m currently working on **Playwright Automation Project**
 
 - 👯 I’m looking to collaborate on **GIT**
 
